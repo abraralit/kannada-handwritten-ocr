@@ -1,0 +1,18 @@
+# Model weights and data (too large for git)
+*.pth
+*.pt
+*.npy
+data/
+preprocessed/
+models/
+
+# Python / notebooks
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
